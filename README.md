@@ -6,3 +6,4 @@
 inside this section, practice creating git branches, switching between branches, deleting branches
 
 ## practiced git merge
+HOw git repos are merged into one ?
